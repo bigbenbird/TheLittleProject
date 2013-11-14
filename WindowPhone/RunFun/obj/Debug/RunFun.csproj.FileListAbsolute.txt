@@ -1,0 +1,81 @@
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\ApplicationIcon.png
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Background.png
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\RunFun.dll
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\RunFun.pdb
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\AppManifest.xaml
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\RunFun.xap
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\App.g.i.cs
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\About.g.i.cs
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\MainPage.g.i.cs
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\Run.g.i.cs
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\RunFun.g.resources
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\RunFun.dll
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\RunFun.pdb
+c:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\XapCacheFile.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\FJ.Core.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\SLWpVisifire.Charts.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\frequency.g.i.cs
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\obj\Debug\Set.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\RunFun\Bin\Debug\Images\save.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Images\save.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\RunFun.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\RunFun.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\RunFun.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\FJ.Core.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\SLWpVisifire.Charts.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\About.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\frequency.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\Run.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\Set.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\RunFun.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\RunFun.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\RunFun.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\RunFun\obj\Debug\XapCacheFile.xml
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Images\save.png
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\ApplicationIcon.png
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Background.png
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\RunFun.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\RunFun.pdb
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\AppManifest.xaml
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\RunFun.xap
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\FJ.Core.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\SLWpVisifire.Charts.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\VS2010\Projects\punkLee\RunFun\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\App.g.i.cs
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\About.g.i.cs
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\frequency.g.i.cs
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\MainPage.g.i.cs
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\Run.g.i.cs
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\Set.g.i.cs
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\RunFun.g.resources
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\RunFun.dll
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\RunFun.pdb
+D:\Project\VS2010\Projects\punkLee\RunFun\obj\Debug\XapCacheFile.xml

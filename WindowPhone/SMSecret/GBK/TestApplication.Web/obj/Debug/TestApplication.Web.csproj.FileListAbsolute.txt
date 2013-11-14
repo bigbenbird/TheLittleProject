@@ -1,0 +1,5 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication.Web\bin\TestApplication.Web.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication.Web\bin\TestApplication.Web.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication.Web\obj\Debug\TestApplication.Web.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication.Web\obj\Debug\TestApplication.Web.pdb

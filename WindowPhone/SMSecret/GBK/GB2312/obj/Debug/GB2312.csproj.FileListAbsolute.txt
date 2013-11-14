@@ -1,0 +1,5 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\GB2312\Bin\Debug\GB2312.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\GB2312\Bin\Debug\GB2312.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\GB2312\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\GB2312\obj\Debug\GB2312.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\GB2312\obj\Debug\GB2312.pdb

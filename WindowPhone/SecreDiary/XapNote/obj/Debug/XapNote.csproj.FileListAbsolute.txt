@@ -1,0 +1,15 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Debug\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Debug\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Debug\XapNote.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Debug\XapNote.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Debug\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Debug\XapNote.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\Add.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\ViewEdit.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\XapNote.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\XapNote.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\XapNote.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,45 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="NoFog.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Margin="0,17,0,474" Grid.Row="1">
+            <TextBlock Height="80" Name="textBlock1" Text="大鸟出品：" FontSize="48" />
+            <TextBlock Height="47" Name="textBlock2" Text="有问题，给我一只猫：" Width="229" />
+            <TextBlock Height="109" Name="textBlock3" Text="            xidianjq@live.com" Width="333" FlowDirection="LeftToRight" FontStyle="Italic" FontWeight="Light" Foreground="#B49BCDFF" HorizontalAlignment="Center" />
+        </StackPanel>
+        <TextBlock Grid.Row="1" Height="261" HorizontalAlignment="Left" Margin="126,336,0,0" Name="textBlock4" Text="加密短信1.0.这是一款支持汉字中文的SMS，短信加密应用，在隐私和安全问题日益严重的今天，一款具有加密功能的SMS很有必要" VerticalAlignment="Top" Width="242" TextWrapping="Wrap" />
+        <!--ContentPanel - place additional content here-->
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

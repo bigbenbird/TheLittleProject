@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlossyTextBlock", "GlossyTextBlock\GlossyTextBlock.csproj", "{251A6916-655D-486B-B734-09FC77B925EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlossyTextBlockApp", "GlossyTextBlockApp\GlossyTextBlockApp.csproj", "{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251A6916-655D-486B-B734-09FC77B925EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251A6916-655D-486B-B734-09FC77B925EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251A6916-655D-486B-B734-09FC77B925EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251A6916-655D-486B-B734-09FC77B925EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFC9B3D-1D3F-4399-839C-2071F69D2A2F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>guidePic/about.png</file>
+        <file>guidePic/exit.png</file>
+        <file>guidePic/main.png</file>
+        <file>guidePic/qt.png</file>
+        <file>guidePic/search.png</file>
+        <file>guidePic/selectMap.png</file>
+        <file>qml/guideQml/main.qml</file>
+        <file>guidePic/main.jpg</file>
+        <file>guidePic/arrow.png</file>
+        <file>guidePic/arrow.psd</file>
+        <file>guidePic/arrow2.png</file>
+    </qresource>
+</RCC>

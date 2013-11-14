@@ -1,0 +1,12 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\Bin\Debug\TestApplication.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\Bin\Debug\TestApplication.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\Bin\Debug\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\Bin\Debug\TestApplication.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\Bin\Debug\TestApplicationTestPage.html
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\TestApplication.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\TestApplication.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SMSecret\GBK\TestApplication\obj\Debug\XapCacheFile.xml

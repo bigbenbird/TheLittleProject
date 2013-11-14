@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\findDialog.o
+./debug\gotoCell.o
+./debug\spreadsheet.o
+./debug\moc_mainwindow.o
+./debug\moc_findDialog.o
+./debug\moc_gotocell.o
+./debug\moc_spreadsheet.o
+./debug\qrc_images.o
+);

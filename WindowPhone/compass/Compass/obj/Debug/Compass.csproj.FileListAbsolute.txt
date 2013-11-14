@@ -1,0 +1,5 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\compass\Compass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\compass\Compass\obj\Debug\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\compass\Compass\obj\Debug\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\compass\Compass\obj\Debug\Compass.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\compass\Compass\obj\Debug\Compassfuck.g.resources

@@ -1,0 +1,68 @@
+<phone:PhoneApplicationPage 
+    x:Class="RunFun.frequency"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" xmlns:my="clr-namespace:Visifire.Commons.Controls;assembly=SLWpVisifire.Charts" xmlns:vc="clr-namespace:Visifire.Charts;assembly=SLWpVisifire.Charts" xmlns:my1="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Margin="12,17,0,27" Height="0"></StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2"></Grid>
+        <Grid Height="756" HorizontalAlignment="Left" Margin="12,0,0,0" Name="grid1" VerticalAlignment="Top" Width="468">
+            <vc:Chart x:Name="MyChart" xmlns:vc="clr-namespace:Visifire.Charts;assembly=SLWpVisifire.Charts" BorderThickness="0" AnimationEnabled="False" Padding="2,2,2,0" ScrollingEnabled="false" LightingEnabled="false" ShadowEnabled="False">
+                <vc:Chart.AxesX>
+                    <vc:Axis>
+                        <vc:Axis.Grids>
+                            <vc:ChartGrid InterlacedColor="#0Aeb6e6e"  />
+                        </vc:Axis.Grids>
+                    </vc:Axis>
+                </vc:Chart.AxesX>
+                <vc:Chart.AxesY>
+                    <vc:Axis LineThickness="0">
+                        <vc:Axis.Grids>
+                            <vc:ChartGrid InterlacedColor="#0Ae6e66e" />
+                        </vc:Axis.Grids>
+                    </vc:Axis>
+                </vc:Chart.AxesY>
+                <vc:Chart.Series>
+                    <vc:DataSeries RenderAs="QuickLine" ShadowEnabled="false" XValueType="Time" LightingEnabled="false" Color="White">
+                        <vc:DataSeries.DataMappings>
+                            <vc:DataMapping Path="Key" MemberName="XValue"></vc:DataMapping>
+                            <vc:DataMapping Path="Value" MemberName="YValue"></vc:DataMapping>
+                        </vc:DataSeries.DataMappings>
+                    </vc:DataSeries>
+                </vc:Chart.Series>
+            </vc:Chart>
+        </Grid>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

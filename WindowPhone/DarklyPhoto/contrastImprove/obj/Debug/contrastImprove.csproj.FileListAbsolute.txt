@@ -1,0 +1,15 @@
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\App.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\MainPage.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\Bin\Debug\ApplicationIcon.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\Bin\Debug\Background.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\Bin\Debug\AppManifest.xaml
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\Bin\Debug\contrastImprove.xap
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\GetFog.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\makeSure.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\XapCacheFile.xml
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\contrastImprove\Bin\Debug\contrastImprove.dll
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\contrastImprove\Bin\Debug\contrastImprove.pdb
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\contrastImprove.g.resources
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\contrastImprove.dll
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\contrastImprove\obj\Debug\contrastImprove.pdb

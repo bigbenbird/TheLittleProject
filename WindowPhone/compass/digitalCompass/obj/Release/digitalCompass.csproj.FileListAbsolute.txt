@@ -1,0 +1,15 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\digitalCompass.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\digitalCompass.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\digitalCompass.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\Bin\Release\Codeplex.Dashboarding.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\About.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\digitalCompass.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\digitalCompass.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\digitalCompass.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\compass\digitalCompass\obj\Release\XapCacheFile.xml

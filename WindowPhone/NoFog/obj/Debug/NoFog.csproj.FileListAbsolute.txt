@@ -1,0 +1,138 @@
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\ApplicationIcon.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\Background.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\AppManifest.xaml
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\App.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\MainPage.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\XapCacheFile.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\obj\Debug\makeSure.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\obj\Debug\GetFog.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\NoFog\Bin\Debug\SplashScreenImage.jpg
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\About.g.i.cs
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\Set.g.i.cs
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\Images\save.png
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\Images\reset.png
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\NoFogPhoto_1.0.xap
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\NoFog.dll
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\Bin\Debug\NoFog.pdb
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\NoFog.g.resources
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\NoFog.dll
+C:\Users\LiJianpeng\documents\visual studio 2010\Projects\NoFog\obj\Debug\NoFog.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Images\reset.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Images\save.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\SplashScreenImage.jpg
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\NoFog.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\NoFog.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\About.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\GetFog.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\makeSure.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\Set.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\NoFog.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\NoFog.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\NoFog.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\Bin\Debug\NoFogPhoto_1.0.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\NoFog\obj\Debug\XapCacheFile.xml
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\ApplicationIcon.png
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Background.png
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Images\reset.png
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Images\save.png
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\SplashScreenImage.jpg
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\NoFog.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\NoFog.pdb
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\AppManifest.xaml
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\NoFogPhoto_1.0.xap
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\App.g.i.cs
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\About.g.i.cs
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\GetFog.g.i.cs
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\MainPage.g.i.cs
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\makeSure.g.i.cs
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\Set.g.i.cs
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\NoFog.g.resources
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\NoFog.dll
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\NoFog.pdb
+D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\XapCacheFile.xml

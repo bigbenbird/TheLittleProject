@@ -1,0 +1,98 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="XapNote.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="记事本" Style="{StaticResource PhoneTextNormalStyle}" FontSize="30" />
+            <TextBlock x:Name="PageTitle" Text="我的日记" Margin="9,-7,0,0" TextAlignment="Center" FontSize="22"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListBox HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                     x:Name="noteListBox">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <HyperlinkButton x:Name="noteLocation"
+                                             FontSize="32"
+                                             Content="{Binding FileName}"
+                                             Tag="{Binding FileFullName}"
+                                             Click="noteLocation_Click">
+                            </HyperlinkButton>
+                            <TextBlock Name="noteDateCreated"
+                                       Text="{Binding DateCreated}"
+                                       Margin="10">
+                            </TextBlock>
+                        </StackPanel>
+
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <Canvas Name="helpCanvas"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch"
+                    Width="400"
+                    Height="400"
+                    Background="White"
+                    Visibility="Collapsed">
+
+                <ScrollViewer Name="helpScrollViewer"
+                              Width="400"
+                              Height="300"
+                              Canvas.Left="0"
+                              Canvas.Top="100">
+                    <TextBlock Name="helpTextBlock" Foreground="Black" FontSize="24" Height="500" TextWrapping="Wrap">
+                        这个记事本允许你写简单的日记，并且将其保存,显示你创建日记的日期和地点。
+                        <LineBreak></LineBreak>
+                        <LineBreak></LineBreak>
+                        点击日记名称，可以打开并编辑该日记。
+                        <LineBreak></LineBreak>
+                        <LineBreak></LineBreak>
+                        点击应用程序下面的添加图标可以写日记。
+                        <LineBreak></LineBreak></TextBlock>
+                </ScrollViewer>
+                <TextBlock TextAlignment="Center" Foreground="Black" Canvas.Left="0" Canvas.Top="10" Height="30" Text="帮助" Width="59" />
+                <Button x:Name="btnClose"
+                        Click="btnClose_Click"
+                        Width="50"
+                        Height="50"
+                        Canvas.Left="350" 
+                        Canvas.Top="0">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/Images/appbar.close.rest.png" Stretch="None" />
+                    </Button.Background>
+                </Button>
+            </Canvas>
+        </Grid>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.add.rest.png" Text="添加"  Click="Appbar_Add_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.questionmark.rest.png" Text="帮助" Click="Appbar_Help_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

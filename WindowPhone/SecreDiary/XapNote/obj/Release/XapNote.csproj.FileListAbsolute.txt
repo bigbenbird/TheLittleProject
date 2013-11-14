@@ -1,0 +1,16 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Release\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Release\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Release\XapNote.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Release\XapNote.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Release\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\Add.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\ViewEdit.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\XapNote.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\XapNote.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\XapNote.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\XapCacheFile.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\Bin\Release\SecretDiary.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\xidianjq\SecreDiary\XapNote\obj\Release\About.g.i.cs

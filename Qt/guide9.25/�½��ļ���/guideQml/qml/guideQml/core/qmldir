@@ -1,0 +1,6 @@
+Button ./button.qml
+ExitView ./exitView.qml
+SearchView ./searchView.qml
+About ./aboutView.qml
+AboutQt ./aboutQt.qml
+SelectMapView  ./selectMapView.qml

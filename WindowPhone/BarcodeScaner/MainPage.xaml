@@ -1,0 +1,82 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="BarcodeScaner.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:zxing="clr-namespace:WP7_Barcode_Library;assembly=WP7_Barcode_Library"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <phone:PhoneApplicationPage.Resources>
+        <zxing:BarcodeTypeManager x:Key="myBarcodeTypeManager"/>
+    </phone:PhoneApplicationPage.Resources>
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="#FF11A78E" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="PageTitle" Text="读取条形码" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0" >
+            <toolkit:ListPicker   Margin="212,41,62,526" Name="lpBarcodeType" ItemsSource="{Binding Source={StaticResource myBarcodeTypeManager}, Path=BarcodeTypes}" FullModeHeader="Select Barcode Type" CacheMode="BitmapCache" SelectionChanged="lpBarcodeType_SelectionChanged">
+                <toolkit:ListPicker.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Path=Name}" Margin="0 -3 0 0"/>
+                    </DataTemplate>
+                </toolkit:ListPicker.ItemTemplate>
+                <toolkit:ListPicker.FullModeItemTemplate>
+                    <DataTemplate>
+                        <Border BorderThickness="2" BorderBrush="{StaticResource PhoneForegroundBrush}" Margin="10,5,10,5" CornerRadius="5" Visibility="{Binding Path=Visible}">
+                            <Border.Background>
+                                <SolidColorBrush Color="{StaticResource PhoneForegroundColor}" Opacity=".20"/>
+                            </Border.Background>
+                            <Grid Width="430" Height="120">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="220" />
+                                    <ColumnDefinition Width="*"  />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+
+                                <Image Margin="10,10,10,10" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Source="{Binding Path=SampleImage}" />
+                                <TextBlock Grid.Column="1" Margin="0,-7,0,0" VerticalAlignment="Center" TextAlignment="Center" Text="{Binding Name}" TextWrapping="Wrap" FontSize="26"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </toolkit:ListPicker.FullModeItemTemplate>
+            </toolkit:ListPicker>
+            <TextBlock Height="56" HorizontalAlignment="Left" Margin="50,41,0,0" Name="textBlock1" Text="选择想要制作条形码的类型" VerticalAlignment="Top" Width="125" TextWrapping="Wrap" />
+            <Button Content="照相机" Height="72" HorizontalAlignment="Left" Margin="50,141,0,0" Name="button1" VerticalAlignment="Top" Width="160" Click="button1_Click" />
+            <Button Content="本地图片" Height="72" HorizontalAlignment="Left" Margin="250,141,0,0" Name="button2" VerticalAlignment="Top" Width="160" Click="button2_Click" />
+            <TextBlock Height="26" HorizontalAlignment="Left" Margin="9,457,0,0" Name="textBlock2" Text="结果" TextWrapping="Wrap" VerticalAlignment="Top" Width="125" />
+            
+                <Image Height="224" Stretch="Uniform"  HorizontalAlignment="Center" Margin="9,202,-3,136" Name="imgCapture" VerticalAlignment="Center" Width="450" Source="/Barcode.jpg"  />
+            
+            <TextBlock Height="125" HorizontalAlignment="Left" Margin="6,503,0,0" Name="txtResults" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="444" />
+            <ProgressBar Name="pbStatus" Height="10" HorizontalAlignment="Left" Margin="12,10,0,0" VerticalAlignment="Top" Width="468" DataContext="{Binding}" />
+        </Grid>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FF11A78E">
+            <shell:ApplicationBarIconButton IconUri="about.png" Text="关于" Click="ApplicationBarIconButton_Click" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

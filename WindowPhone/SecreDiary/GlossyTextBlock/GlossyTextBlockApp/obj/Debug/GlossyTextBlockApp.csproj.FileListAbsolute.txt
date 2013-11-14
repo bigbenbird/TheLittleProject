@@ -1,0 +1,15 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\GlossyTextBlockApp.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\GlossyTextBlockApp.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\GlossyTextBlockApp.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\GlossyTextBlock.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\Bin\Debug\GlossyTextBlock.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\GlossyTextBlockApp.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\GlossyTextBlockApp.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\GlossyTextBlockApp.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlockApp\obj\Debug\XapCacheFile.xml

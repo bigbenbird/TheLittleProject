@@ -1,0 +1,15 @@
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\ApplicationIcon.png
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\Background.png
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\BingLoadGoogleMap.dll
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\BingLoadGoogleMap.pdb
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\AppManifest.xaml
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\BingLoadGoogleMap.xap
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\ResolveAssemblyReference.cache
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\App.g.i.cs
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\MainPage.g.i.cs
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\BingLoadGoogleMap.g.resources
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\BingLoadGoogleMap.dll
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\BingLoadGoogleMap.pdb
+c:\users\roy\documents\visual studio 2010\Projects\BingLoadGoogleMap\BingLoadGoogleMap\obj\Debug\XapCacheFile.xml

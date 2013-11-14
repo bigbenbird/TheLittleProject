@@ -1,0 +1,48 @@
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Release\ApplicationIcon.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Release\Background.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Release\DarklyPhoto.dll
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Release\DarklyPhoto.pdb
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Release\AppManifest.xaml
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Release\DarklyPhoto.xap
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\ResolveAssemblyReference.cache
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\App.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\About.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\GetFog.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\MainPage.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\makeSure.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\DarklyPhoto.g.resources
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\DarklyPhoto.dll
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\DarklyPhoto.pdb
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Release\XapCacheFile.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\App.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\About.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\GetFog.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\MainPage.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\makeSure.g.i.cs
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\DarklyPhoto.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\DarklyPhoto.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\Bin\Release\ApplicationIcon.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\Bin\Release\Background.png
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\Bin\Release\DarklyPhoto.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\Bin\Release\DarklyPhoto.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\Bin\Release\AppManifest.xaml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\Bin\Release\DarklyPhoto.xap
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\DarklyPhoto.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\punkLee\DarklyPhoto\obj\Release\XapCacheFile.xml
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\Bin\Release\ApplicationIcon.png
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\Bin\Release\Background.png
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\Bin\Release\DarklyPhoto.dll
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\Bin\Release\DarklyPhoto.pdb
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\Bin\Release\AppManifest.xaml
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\Bin\Release\DarklyPhoto.xap
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\ResolveAssemblyReference.cache
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\App.g.i.cs
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\About.g.i.cs
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\GetFog.g.i.cs
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\MainPage.g.i.cs
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\makeSure.g.i.cs
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\DarklyPhoto.g.resources
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\DarklyPhoto.dll
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\DarklyPhoto.pdb
+D:\Project\VS2010\Projects\punkLee\DarklyPhoto\obj\Release\XapCacheFile.xml

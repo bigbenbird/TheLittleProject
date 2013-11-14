@@ -1,0 +1,8 @@
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\Bin\Debug\GlossyTextBlock.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\Bin\Debug\GlossyTextBlock.pdb
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\obj\Debug\GlossyTextBlock.g.resources
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\obj\Debug\GlossyTextBlock.dll
+C:\Users\LiJianpeng\Documents\Visual Studio 2010\Projects\SecreDiary\GlossyTextBlock\GlossyTextBlock\obj\Debug\GlossyTextBlock.pdb

@@ -1,0 +1,16 @@
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Debug\ApplicationIcon.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Debug\Background.png
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Debug\DarklyPhoto.dll
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Debug\DarklyPhoto.pdb
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Debug\AppManifest.xaml
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\Bin\Debug\DarklyPhoto.xap
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\App.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\GetFog.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\MainPage.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\makeSure.g.i.cs
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\DarklyPhoto.g.resources
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\DarklyPhoto.dll
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\DarklyPhoto.pdb
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\XapCacheFile.xml
+c:\users\lijianpeng\documents\visual studio 2010\Projects\DarklyPhoto\obj\Debug\About.g.i.cs

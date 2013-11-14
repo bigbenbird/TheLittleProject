@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>aboutQt.qml</file>
+        <file>aboutView.qml</file>
+        <file>button.qml</file>
+        <file>exitView.qml</file>
+        <file>qmldir</file>
+        <file>show.qml</file>
+        <file>searchView.qml</file>
+        <file>guidePic/about.png</file>
+        <file>guidePic/exit.png</file>
+        <file>guidePic/main.png</file>
+        <file>guidePic/qt.png</file>
+        <file>guidePic/search.png</file>
+        <file>guidePic/selectMap.png</file>
+        <file>guidePic/main.jpg</file>
+        <file>guidePic/arrow.png</file>
+        <file>guidePic/arrow.psd</file>
+        <file>guidePic/arrow2.png</file>
+        <file>test.db</file>
+    </qresource>
+</RCC>

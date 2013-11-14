@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>guidePic/about.png</file>
+        <file>guidePic/agt home.png</file>
+        <file>guidePic/Commercial building.png</file>
+        <file>guidePic/exit.png</file>
+        <file>guidePic/main.png</file>
+        <file>guidePic/qt.png</file>
+        <file>guidePic/Search (1).png</file>
+        <file>guidePic/search.png</file>
+        <file>guidePic/selectMap.png</file>
+        <file>qml/guideQml/main.qml</file>
+        <file>guidePic/main.jpg</file>
+        <file>guidePic/room.png</file>
+        <file>guidePic/arrow.png</file>
+    </qresource>
+</RCC>

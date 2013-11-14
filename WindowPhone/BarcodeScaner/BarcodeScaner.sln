@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeScaner", "BarcodeScaner.csproj", "{0FE43395-9992-4C0C-A7DA-6F558A36772B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE43395-9992-4C0C-A7DA-6F558A36772B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE43395-9992-4C0C-A7DA-6F558A36772B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0FE43395-9992-4C0C-A7DA-6F558A36772B}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{0FE43395-9992-4C0C-A7DA-6F558A36772B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE43395-9992-4C0C-A7DA-6F558A36772B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE43395-9992-4C0C-A7DA-6F558A36772B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

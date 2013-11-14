@@ -1,0 +1,16 @@
+﻿<xapCache source="D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\NoFogPhoto_1.0.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12.10.30 14:16:37">
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12.3.15 13:06:28" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Background.png" archivePath="Background.png" lastWriteTime="12.3.3 10:40:18" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12.3.3 10:40:26" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\obj\Debug\NoFog.dll" archivePath="NoFog.dll" lastWriteTime="12.10.30 14:16:36" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Advertising for Phone\Libraries\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="11.8.19 11:13:14" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Advertising for Phone\Libraries\Microsoft.Advertising.Mobile.UI.dll" archivePath="Microsoft.Advertising.Mobile.UI.dll" lastWriteTime="11.8.19 11:13:14" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="11.9.15 15:36:26" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Images\reset.png" archivePath="Images\reset.png" lastWriteTime="11.9.15 15:33:14" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Images\save.png" archivePath="Images\save.png" lastWriteTime="11.9.15 15:33:14" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12.2.29 14:03:46" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12.3.9 11:58:46" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Images\reset.png" archivePath="Images\reset.png" lastWriteTime="11.9.15 15:33:14" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\Images\save.png" archivePath="Images\save.png" lastWriteTime="11.9.15 15:33:14" />
+  <file source="D:\Project\VS2010\Projects\punkLee\NoFog\Bin\Debug\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12.2.29 14:03:46" />
+</xapCache>

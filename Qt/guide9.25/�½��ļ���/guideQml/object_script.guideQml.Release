@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\sql.o
+./release\paint.o
+./release\mainwindow.o
+./release\main.o
+./release\qmlapplicationviewer.o
+./release\moc_qmlapplicationviewer.o
+./release\moc_paint.o
+./release\moc_mainwindow.o
+./release\qrc_guide.o
+);

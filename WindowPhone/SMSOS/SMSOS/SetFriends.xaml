@@ -1,0 +1,42 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="SMSOS.SetFriends"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" shell:SystemTray.IsVisible="True" d:DesignHeight="768" d:DesignWidth="480">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="24,24,0,12">
+            <TextBlock x:Name="ApplicationTitle" Text="紧急求援系统" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="预设亲友" Margin="-3,-8,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentGrid" Grid.Row="1">
+            <TextBlock Height="82" HorizontalAlignment="Left" Margin="24,19,0,0" Name="textBlock1" Text="请选择1-3个亲友的联系电话作为你在紧急情况下的求援对象（其中第一个号码将作为电话求援时的默认号码）：" VerticalAlignment="Top" Width="427" TextWrapping="Wrap" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="16,106,0,0" Name="txbPhones1" VerticalAlignment="Top" Width="350" />
+            <Button Content="选择..." Height="72" Margin="354,106,0,0" Name="btnSelectPhone1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Click="btnSelectPhone_Click" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="16,169,0,0" Name="txbPhones2" VerticalAlignment="Top" Width="350" />
+            <Button Content="选择..." Height="72" HorizontalAlignment="Left" Margin="354,169,0,0" Name="btnSelectPhone2" VerticalAlignment="Top" Width="120" Click="btnSelectPhone_Click" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="16,234,0,0" Name="txbPhones3" VerticalAlignment="Top" Width="350" />
+            <Button Content="选择..." Height="72" HorizontalAlignment="Left" Margin="354,234,0,0" Name="btnSelectPhone3" VerticalAlignment="Top" Width="120" Click="btnSelectPhone_Click" />
+            <Button Content="保存" Height="72" HorizontalAlignment="Left" Margin="72,321,0,0" Name="btnSave" VerticalAlignment="Top" Width="160" Click="btnSave_Click" />
+            <Button Content="取消" Height="72" HorizontalAlignment="Left" Margin="226,321,0,0" Name="btnCanel" VerticalAlignment="Top" Width="160" Click="btnCanel_Click" />
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

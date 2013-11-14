@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\sql.o
+./debug\paint.o
+./debug\mainwindow.o
+./debug\gridcell.o
+./debug\qmlapplicationviewer.o
+./debug\moc_qmlapplicationviewer.o
+./debug\moc_paint.o
+./debug\moc_mainwindow.o
+./debug\moc_gridcell.o
+./debug\qrc_guide.o
+);
